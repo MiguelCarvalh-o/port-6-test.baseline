@@ -1,0 +1,1729 @@
+%!Adobe-FontList 1.22
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-9ptItalic
+FamilyName:DM Sans
+StyleName:9pt Italic
+FullName:DM Sans 9pt Italic
+MenuName:DM Sans 9pt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\DMSans-Italic-VariableFont_opsz,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:283524
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 9pt
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-9ptRegular
+FamilyName:DM Sans
+StyleName:9pt Regular
+FullName:DM Sans 9pt Regular
+MenuName:DM Sans 9pt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\DMSans-VariableFont_opsz,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:238984
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 9pt
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\OFL.txt
+FileModTime:1690666326
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\README.txt
+FileModTime:1690666326
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Black
+FamilyName:DM Sans
+StyleName:Black
+FullName:DM Sans Black
+MenuName:DM Sans Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56348
+FileModTime:1689282038
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans Black
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-BlackItalic
+FamilyName:DM Sans
+StyleName:Black Italic
+FullName:DM Sans Black Italic
+MenuName:DM Sans Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61236
+FileModTime:1689282038
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans Black
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Bold
+FamilyName:DM Sans
+StyleName:Bold
+FullName:DM Sans Bold
+MenuName:DM Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56272
+FileModTime:1689282038
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-BoldItalic
+FamilyName:DM Sans
+StyleName:Bold Italic
+FullName:DM Sans Bold Italic
+MenuName:DM Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61172
+FileModTime:1689282038
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-ExtraBold
+FamilyName:DM Sans
+StyleName:ExtraBold
+FullName:DM Sans ExtraBold
+MenuName:DM Sans ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56320
+FileModTime:1689282038
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans ExtraBold
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-ExtraBoldItalic
+FamilyName:DM Sans
+StyleName:ExtraBold Italic
+FullName:DM Sans ExtraBold Italic
+MenuName:DM Sans ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61276
+FileModTime:1689282038
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans ExtraBold
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-ExtraLight
+FamilyName:DM Sans
+StyleName:ExtraLight
+FullName:DM Sans ExtraLight
+MenuName:DM Sans ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56416
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans ExtraLight
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-ExtraLightItalic
+FamilyName:DM Sans
+StyleName:ExtraLight Italic
+FullName:DM Sans ExtraLight Italic
+MenuName:DM Sans ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61372
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans ExtraLight
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Italic
+FamilyName:DM Sans
+StyleName:Italic
+FullName:DM Sans Italic
+MenuName:DM Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61248
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Light
+FamilyName:DM Sans
+StyleName:Light
+FullName:DM Sans Light
+MenuName:DM Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56336
+FileModTime:1689282038
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans Light
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-LightItalic
+FamilyName:DM Sans
+StyleName:Light Italic
+FullName:DM Sans Light Italic
+MenuName:DM Sans Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61340
+FileModTime:1689282038
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans Light
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Medium
+FamilyName:DM Sans
+StyleName:Medium
+FullName:DM Sans Medium
+MenuName:DM Sans Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56380
+FileModTime:1689282038
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans Medium
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-MediumItalic
+FamilyName:DM Sans
+StyleName:Medium Italic
+FullName:DM Sans Medium Italic
+MenuName:DM Sans Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61400
+FileModTime:1689282038
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans Medium
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Regular
+FamilyName:DM Sans
+StyleName:Regular
+FullName:DM Sans Regular
+MenuName:DM Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56352
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-SemiBold
+FamilyName:DM Sans
+StyleName:SemiBold
+FullName:DM Sans SemiBold
+MenuName:DM Sans SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56340
+FileModTime:1689282038
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans SemiBold
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-SemiBoldItalic
+FamilyName:DM Sans
+StyleName:SemiBold Italic
+FullName:DM Sans SemiBold Italic
+MenuName:DM Sans SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61236
+FileModTime:1689282038
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans SemiBold
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-Thin
+FamilyName:DM Sans
+StyleName:Thin
+FullName:DM Sans Thin
+MenuName:DM Sans Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56348
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans Thin
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans-ThinItalic
+FamilyName:DM Sans
+StyleName:Thin Italic
+FullName:DM Sans Thin Italic
+MenuName:DM Sans Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61328
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans Thin
+NameArray:0,Win,16,DM Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-Black
+FamilyName:DM Sans 18pt
+StyleName:Black
+FullName:DM Sans 18pt Black
+MenuName:DM Sans 18pt Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56392
+FileModTime:1689282038
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt Black
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-BlackItalic
+FamilyName:DM Sans 18pt
+StyleName:Black Italic
+FullName:DM Sans 18pt Black Italic
+MenuName:DM Sans 18pt Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61240
+FileModTime:1689282038
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt Black
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-Bold
+FamilyName:DM Sans 18pt
+StyleName:Bold
+FullName:DM Sans 18pt Bold
+MenuName:DM Sans 18pt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56308
+FileModTime:1689282038
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-BoldItalic
+FamilyName:DM Sans 18pt
+StyleName:Bold Italic
+FullName:DM Sans 18pt Bold Italic
+MenuName:DM Sans 18pt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61180
+FileModTime:1689282038
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-ExtraBold
+FamilyName:DM Sans 18pt
+StyleName:ExtraBold
+FullName:DM Sans 18pt ExtraBold
+MenuName:DM Sans 18pt ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56380
+FileModTime:1689282038
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt ExtraBold
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-ExtraBoldItalic
+FamilyName:DM Sans 18pt
+StyleName:ExtraBold Italic
+FullName:DM Sans 18pt ExtraBold Italic
+MenuName:DM Sans 18pt ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61296
+FileModTime:1689282038
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt ExtraBold
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-ExtraLight
+FamilyName:DM Sans 18pt
+StyleName:ExtraLight
+FullName:DM Sans 18pt ExtraLight
+MenuName:DM Sans 18pt ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56424
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt ExtraLight
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-ExtraLightItalic
+FamilyName:DM Sans 18pt
+StyleName:ExtraLight Italic
+FullName:DM Sans 18pt ExtraLight Italic
+MenuName:DM Sans 18pt ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61428
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt ExtraLight
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-Italic
+FamilyName:DM Sans 18pt
+StyleName:Italic
+FullName:DM Sans 18pt Italic
+MenuName:DM Sans 18pt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61320
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-Light
+FamilyName:DM Sans 18pt
+StyleName:Light
+FullName:DM Sans 18pt Light
+MenuName:DM Sans 18pt Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56380
+FileModTime:1689282038
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt Light
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-LightItalic
+FamilyName:DM Sans 18pt
+StyleName:Light Italic
+FullName:DM Sans 18pt Light Italic
+MenuName:DM Sans 18pt Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61344
+FileModTime:1689282038
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt Light
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-Medium
+FamilyName:DM Sans 18pt
+StyleName:Medium
+FullName:DM Sans 18pt Medium
+MenuName:DM Sans 18pt Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56400
+FileModTime:1689282038
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt Medium
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-MediumItalic
+FamilyName:DM Sans 18pt
+StyleName:Medium Italic
+FullName:DM Sans 18pt Medium Italic
+MenuName:DM Sans 18pt Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61368
+FileModTime:1689282038
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt Medium
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-Regular
+FamilyName:DM Sans 18pt
+StyleName:Regular
+FullName:DM Sans 18pt Regular
+MenuName:DM Sans 18pt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56412
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-SemiBold
+FamilyName:DM Sans 18pt
+StyleName:SemiBold
+FullName:DM Sans 18pt SemiBold
+MenuName:DM Sans 18pt SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56364
+FileModTime:1689282038
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt SemiBold
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-SemiBoldItalic
+FamilyName:DM Sans 18pt
+StyleName:SemiBold Italic
+FullName:DM Sans 18pt SemiBold Italic
+MenuName:DM Sans 18pt SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61272
+FileModTime:1689282038
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt SemiBold
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-Thin
+FamilyName:DM Sans 18pt
+StyleName:Thin
+FullName:DM Sans 18pt Thin
+MenuName:DM Sans 18pt Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56384
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 18pt Thin
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans18pt-ThinItalic
+FamilyName:DM Sans 18pt
+StyleName:Thin Italic
+FullName:DM Sans 18pt Thin Italic
+MenuName:DM Sans 18pt Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_18pt-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61360
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 18pt Thin
+NameArray:0,Win,16,DM Sans 18pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-Black
+FamilyName:DM Sans 24pt
+StyleName:Black
+FullName:DM Sans 24pt Black
+MenuName:DM Sans 24pt Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56380
+FileModTime:1689282038
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt Black
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-BlackItalic
+FamilyName:DM Sans 24pt
+StyleName:Black Italic
+FullName:DM Sans 24pt Black Italic
+MenuName:DM Sans 24pt Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60856
+FileModTime:1689282038
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt Black
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-Bold
+FamilyName:DM Sans 24pt
+StyleName:Bold
+FullName:DM Sans 24pt Bold
+MenuName:DM Sans 24pt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56344
+FileModTime:1689282038
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-BoldItalic
+FamilyName:DM Sans 24pt
+StyleName:Bold Italic
+FullName:DM Sans 24pt Bold Italic
+MenuName:DM Sans 24pt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60876
+FileModTime:1689282038
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-ExtraBold
+FamilyName:DM Sans 24pt
+StyleName:ExtraBold
+FullName:DM Sans 24pt ExtraBold
+MenuName:DM Sans 24pt ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56360
+FileModTime:1689282038
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt ExtraBold
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-ExtraBoldItalic
+FamilyName:DM Sans 24pt
+StyleName:ExtraBold Italic
+FullName:DM Sans 24pt ExtraBold Italic
+MenuName:DM Sans 24pt ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60856
+FileModTime:1689282038
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt ExtraBold
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-ExtraLight
+FamilyName:DM Sans 24pt
+StyleName:ExtraLight
+FullName:DM Sans 24pt ExtraLight
+MenuName:DM Sans 24pt ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56464
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt ExtraLight
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-ExtraLightItalic
+FamilyName:DM Sans 24pt
+StyleName:ExtraLight Italic
+FullName:DM Sans 24pt ExtraLight Italic
+MenuName:DM Sans 24pt ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61472
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt ExtraLight
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-Italic
+FamilyName:DM Sans 24pt
+StyleName:Italic
+FullName:DM Sans 24pt Italic
+MenuName:DM Sans 24pt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60932
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-Light
+FamilyName:DM Sans 24pt
+StyleName:Light
+FullName:DM Sans 24pt Light
+MenuName:DM Sans 24pt Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56344
+FileModTime:1689282038
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt Light
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-LightItalic
+FamilyName:DM Sans 24pt
+StyleName:Light Italic
+FullName:DM Sans 24pt Light Italic
+MenuName:DM Sans 24pt Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61000
+FileModTime:1689282038
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt Light
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-Medium
+FamilyName:DM Sans 24pt
+StyleName:Medium
+FullName:DM Sans 24pt Medium
+MenuName:DM Sans 24pt Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56384
+FileModTime:1689282038
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt Medium
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-MediumItalic
+FamilyName:DM Sans 24pt
+StyleName:Medium Italic
+FullName:DM Sans 24pt Medium Italic
+MenuName:DM Sans 24pt Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60940
+FileModTime:1689282038
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt Medium
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-Regular
+FamilyName:DM Sans 24pt
+StyleName:Regular
+FullName:DM Sans 24pt Regular
+MenuName:DM Sans 24pt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56412
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-SemiBold
+FamilyName:DM Sans 24pt
+StyleName:SemiBold
+FullName:DM Sans 24pt SemiBold
+MenuName:DM Sans 24pt SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56324
+FileModTime:1689282038
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt SemiBold
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-SemiBoldItalic
+FamilyName:DM Sans 24pt
+StyleName:SemiBold Italic
+FullName:DM Sans 24pt SemiBold Italic
+MenuName:DM Sans 24pt SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60892
+FileModTime:1689282038
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt SemiBold
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-Thin
+FamilyName:DM Sans 24pt
+StyleName:Thin
+FullName:DM Sans 24pt Thin
+MenuName:DM Sans 24pt Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56364
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 24pt Thin
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans24pt-ThinItalic
+FamilyName:DM Sans 24pt
+StyleName:Thin Italic
+FullName:DM Sans 24pt Thin Italic
+MenuName:DM Sans 24pt Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_24pt-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61348
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 24pt Thin
+NameArray:0,Win,16,DM Sans 24pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-Black
+FamilyName:DM Sans 36pt
+StyleName:Black
+FullName:DM Sans 36pt Black
+MenuName:DM Sans 36pt Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56416
+FileModTime:1689282038
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt Black
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-BlackItalic
+FamilyName:DM Sans 36pt
+StyleName:Black Italic
+FullName:DM Sans 36pt Black Italic
+MenuName:DM Sans 36pt Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61288
+FileModTime:1689282038
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt Black
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-Bold
+FamilyName:DM Sans 36pt
+StyleName:Bold
+FullName:DM Sans 36pt Bold
+MenuName:DM Sans 36pt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56372
+FileModTime:1689282038
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-BoldItalic
+FamilyName:DM Sans 36pt
+StyleName:Bold Italic
+FullName:DM Sans 36pt Bold Italic
+MenuName:DM Sans 36pt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61236
+FileModTime:1689282038
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-ExtraBold
+FamilyName:DM Sans 36pt
+StyleName:ExtraBold
+FullName:DM Sans 36pt ExtraBold
+MenuName:DM Sans 36pt ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56420
+FileModTime:1689282038
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt ExtraBold
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-ExtraBoldItalic
+FamilyName:DM Sans 36pt
+StyleName:ExtraBold Italic
+FullName:DM Sans 36pt ExtraBold Italic
+MenuName:DM Sans 36pt ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61380
+FileModTime:1689282038
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt ExtraBold
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-ExtraLight
+FamilyName:DM Sans 36pt
+StyleName:ExtraLight
+FullName:DM Sans 36pt ExtraLight
+MenuName:DM Sans 36pt ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56488
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt ExtraLight
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-ExtraLightItalic
+FamilyName:DM Sans 36pt
+StyleName:ExtraLight Italic
+FullName:DM Sans 36pt ExtraLight Italic
+MenuName:DM Sans 36pt ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61528
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt ExtraLight
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-Italic
+FamilyName:DM Sans 36pt
+StyleName:Italic
+FullName:DM Sans 36pt Italic
+MenuName:DM Sans 36pt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61352
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-Light
+FamilyName:DM Sans 36pt
+StyleName:Light
+FullName:DM Sans 36pt Light
+MenuName:DM Sans 36pt Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56388
+FileModTime:1689282038
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt Light
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-LightItalic
+FamilyName:DM Sans 36pt
+StyleName:Light Italic
+FullName:DM Sans 36pt Light Italic
+MenuName:DM Sans 36pt Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61380
+FileModTime:1689282038
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt Light
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-Medium
+FamilyName:DM Sans 36pt
+StyleName:Medium
+FullName:DM Sans 36pt Medium
+MenuName:DM Sans 36pt Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56388
+FileModTime:1689282038
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt Medium
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-MediumItalic
+FamilyName:DM Sans 36pt
+StyleName:Medium Italic
+FullName:DM Sans 36pt Medium Italic
+MenuName:DM Sans 36pt Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61404
+FileModTime:1689282038
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt Medium
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-Regular
+FamilyName:DM Sans 36pt
+StyleName:Regular
+FullName:DM Sans 36pt Regular
+MenuName:DM Sans 36pt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56372
+FileModTime:1689282038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-SemiBold
+FamilyName:DM Sans 36pt
+StyleName:SemiBold
+FullName:DM Sans 36pt SemiBold
+MenuName:DM Sans 36pt SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56372
+FileModTime:1689282038
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt SemiBold
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-SemiBoldItalic
+FamilyName:DM Sans 36pt
+StyleName:SemiBold Italic
+FullName:DM Sans 36pt SemiBold Italic
+MenuName:DM Sans 36pt SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61280
+FileModTime:1689282038
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt SemiBold
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-Thin
+FamilyName:DM Sans 36pt
+StyleName:Thin
+FullName:DM Sans 36pt Thin
+MenuName:DM Sans 36pt Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56416
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DM Sans 36pt Thin
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DMSans36pt-ThinItalic
+FamilyName:DM Sans 36pt
+StyleName:Thin Italic
+FullName:DM Sans 36pt Thin Italic
+MenuName:DM Sans 36pt Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\migue\Downloads\test\Font\DM_Sans\static\DMSans_36pt-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61412
+FileModTime:1689282038
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,DM Sans 36pt Thin
+NameArray:0,Win,16,DM Sans 36pt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\migue\Downloads\test\Font\close-outline.svg
+FileModTime:1690923345
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\migue\Downloads\test\Font\menu-outline.svg
+FileModTime:1690923377
+%EndFont
+

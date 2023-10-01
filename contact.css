@@ -1,0 +1,781 @@
+@charset "UTF-8";
+
+@keyframes transitionIn{
+    from {
+         opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+@media(prefers-reduce-motion) {
+    .hidden{
+        transition: none;
+    }
+}
+
+
+@font-face {
+    font-family: DMSans;
+    src: url(Font/DM_Sans/DMSans-VariableFont_opsz\,wght.ttf);
+    /* font-weight: 100 900; */
+}
+:root{
+    --backP: #1e1e1e;
+    --backB: #f1f1f1;
+
+    --letterP: #0e0e0e;
+    --letterB: #f1f1f1;
+
+    --fadeP: #2f2f2f;
+    --fadeB: rgb(193, 193, 193);
+
+    --aster: #f54433;
+}
+
+
+html, body{
+    width: 100%;
+    max-width: 100vw;
+    height: 100%;
+    overflow: hidden;
+}
+
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.hidden{
+    opacity: 0;
+    transition: all 1s ease-in-out .4s;
+    transform: translateY(22px);
+}
+
+.site-background{
+    background-color: var(--backP);
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+header{
+    display: flex;
+    /*border: 1px solid white;*/
+    justify-content: space-between;
+    animation: transitionIn 2.0s;
+}
+
+.main-title{
+    color: var(--letterB);
+    font: 600 35px DMSans;
+    margin-left: 90px;
+    cursor: pointer;
+    text-decoration: none;
+    /*border: 1px solid white;*/
+}
+
+.main-title {
+    display: flex;
+    align-items: center;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+
+}
+
+.main-title:hover {
+    transform: translateY(-6px);
+    color: var(--fadeB);
+}
+
+nav{
+    /*border: 1px solid white;*/
+    display: flex;
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    /*border: 1px solid white;*/
+    align-items: center;
+    margin-right: 90px;
+}
+
+.nav-links, li{
+
+    text-decoration: none;
+    font-size: 27px;
+}
+
+#link-a{
+    display: inline-block;
+    text-decoration: none;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+#link-a:hover{
+    transform: translateY(-6px);
+    color: var(--fadeB);
+}
+
+#link-b{
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+#link-b:hover{
+    transform: translateY(-6px);
+    color: var(--fadeB);
+}
+
+.portfolio{
+    color: var(--letterB);
+    font: 600 20px DMSans;
+    cursor: pointer;
+    margin-left: 32px;
+}
+
+.insta-link{
+    color: var(--letterB);
+    display: flex;
+    font: 600 20px DMSans;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 32px;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+
+.insta-link:hover{
+    transform: translateY(-6px);
+    color: var(--fadeB);
+
+}
+
+.behance-link{
+    color: var(--letterB);
+    display: flex;
+    font: 600 20px DMSans;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 32px;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+
+.behance-link:hover{
+    transform: translateY(-6px);
+    color: var(--fadeB);
+}
+.hidden-menu{
+    opacity: 0;
+}
+.burguer{
+    display: none;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    width: 100%;
+    background-color: var(--backP);
+}
+
+.copy{
+    display: flex;
+    align-items: center;
+    color: var(--letterB);
+    font: 400 23px DMSans;
+    margin-left: 90px;
+    cursor: default;
+}
+
+.nav-linksII{
+    display: flex;
+    list-style: none;
+    /*border: 1px solid white;*/
+    align-items: center;
+    margin-right: 90px;
+}
+
+.nav-linksII, li{
+    text-decoration: none;
+}
+
+.insta-linkII{
+    color: var(--letterB);
+    display: flex;
+    font: 600 20px DMSans;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 32px;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+
+.insta-linkII:hover{
+    transform: translateY(-6px);
+    color: rgba(192, 192, 192, 0.717);
+
+}
+
+.behance-linkII{
+    color: var(--letterB);
+    display: flex;
+    font: 600 20px DMSans;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 32px;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+
+.behance-linkII:hover{
+    transform: translateY(-6px);
+    color: var(--fadeB);
+}
+
+.show{
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.side-contact{
+    font: 500 85px DMSans;
+    animation: transitionIn 3.0s;
+    padding-bottom: 150px;
+    color: var(--letterB);
+    cursor: default;
+}
+
+.colored{
+    color: var(--aster);
+}
+
+main {
+    min-height: 500px;
+    grid-template-columns: 960px 960px;
+    padding: 16px;
+    display: grid;
+    place-items: center;
+    font: 600 20px DMSans;
+}
+form{
+    width: 800px;
+    max-width: 800px;
+    animation: transitionIn 3.0s;
+}
+
+label, input, textarea, form > button{
+    display: block;
+
+}
+
+input, textarea, form > button{
+    width: 600px;
+    height: 65px;
+    font: inherit;
+    padding: 20px;
+    font-weight: 700;
+
+}
+
+input, textarea{
+    margin-bottom: 16px;
+    border: 1.5px solid transparent;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    background-color: var(--fadeB);
+}
+
+input:hover, input:focus, textarea:hover, textarea:focus{
+    outline: none;
+    border-color: var(--aster);
+}
+
+label{
+    margin-bottom: 8px;
+    color: var(--letterB);
+}
+
+textarea{
+    min-height: 233px;
+    resize: none;
+}
+
+form > button{
+    border: none;
+    color: var(--letterB);
+    background-color: var(--aster);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+form > button:hover, form > button:focus{
+    outline: none;
+    background: var(--fadeB);
+    color: var(--aster);
+}
+
+form > button:disabled{
+    cursor: not-allowed;
+    background: var(--fadeB);
+    color: var(--letterP);
+}
+.success, .error{
+    color: var(--letterB);
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+
+@media (max-width: 1440px) {
+    .main-title{
+        font: 550 25px DMSans;
+    margin-left: 90px;
+    }
+    main{
+        min-height: 500px;
+        grid-template-columns: 720px 720px;
+        padding: 66px;
+        display: grid;
+        place-items: center;
+        font: 500 18px DMSans;
+    }
+    .side-contact{
+        font: 500 70px DMSans;
+        animation: transitionIn 3.0s;
+        padding-bottom: 150px;
+        color: var(--letterB);
+    }
+    form{
+        width: 500px;
+        max-width: 800px;
+        animation: transitionIn 3.0s;
+    }
+    input, textarea{
+        width: 500px;
+        height: 55px;
+        font: inherit;
+        padding: 20px;
+        font-weight: 600;
+    }
+    form > button{
+        width: 500px;
+        height: 65px;
+        font: inherit;
+        padding: 20px;
+        font-weight: 600;
+    }
+    textarea{
+        min-height: 140px;
+        resize: none;
+    }
+    .success, .error{
+        padding-top: 232px;
+        padding-bottom: 232px;
+    }
+
+
+}
+
+@media (max-width: 1024px) {
+    .copy{
+        margin-left: 65px;   
+    }
+    .nav-linksII{
+        margin-right: 65px;
+    }
+    .main-title{
+        font: 550 25px DMSans;
+    margin-left: 65px;
+    }
+    .nav-links{
+        display: flex;
+        list-style: none;
+        /*border: 1px solid white;*/
+        align-items: center;
+        margin-right: 65px;
+    }
+    main{
+        min-height: 500px;
+        grid-template-columns: 512px 512px;
+        padding: 107px 16px 107px 16px;
+        display: grid;
+        place-items: center;
+        font: 450 16px DMSans;
+    }
+    .side-contact{
+        font: 500 55px DMSans;
+        animation: transitionIn 3.0s;
+        padding-bottom: 150px;
+        color: var(--letterB);
+    }
+    form{
+        width: 300px;
+        max-width: 800px;
+        animation: transitionIn 3.0s;
+    }
+    input, textarea{
+        width: 300px;
+        height: 40px;
+        font: inherit;
+        padding: 20px;
+        font-weight: 600;
+    }
+    form > button{
+        width: 300px;
+        height: 65px;
+        font: inherit;
+        padding: 10px;
+        font-weight: 500;
+    }
+    textarea{
+        min-height: 100px;
+        resize: none;
+    }
+
+    .success, .error{
+        color: var(--letterB);
+        text-align: center;
+        padding-top: 170px;
+        padding-bottom: 170px;
+    }
+    
+}
+
+@media (max-width: 768px) {
+    
+    .copy{
+        margin-left: 65px;   
+    }
+    .nav-linksII{
+        margin-right: 65px;
+    }
+    .main-title{
+        font: 650 27px DMSans;
+    margin-left: 65px;
+    }
+    .nav-links{
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        /*border: 1px solid white;*/
+        align-items: center;
+        margin-right: 65px;
+        background: hsla(0, 0%, 100%, 0.05);
+        border: 2px solid rgba(255, 245, 245, 0.116);
+        backdrop-filter: blur(0.5rem);
+        position: fixed;
+        inset: 0 0 0 65%;
+        margin: 0;
+        z-index: 1000;
+        transform: translateX(100%);
+        transition: transform 350ms ease-out;
+    }
+    .nav-links[data-visible="true"]{
+        transform: translateX(0%);
+    }
+    .burguer[aria-expanded="true"]{
+        position: fixed;
+        background-image:url(Font/close-outline.svg);
+    }
+    .portfolio, .insta-link, .behance-link{
+        margin-bottom: 30px;
+        margin-left: 0;
+    }
+    .portfolio{
+        margin-top: 122px;
+    }
+    .main-title {
+        display: flex;
+        align-items: flex-start;
+        margin-top: 27px;
+        
+
+    }
+    .burguer{
+        background-image: url(Font/menu-outline.svg);
+        background-color: transparent;
+        display: block;
+        color: black;
+        position: absolute;
+        z-index: 9999;
+        right: 35px;
+        margin-right: 35px;
+        top: 35px;width: 28px;
+        height: 30px;
+        background-repeat: no-repeat;
+    }
+
+    main{
+        min-height: 500px;
+        grid-template-columns: 738px;
+        grid-template-rows: 400px 512px;
+        padding: 57px 16px 57px 16px;
+        display: grid;
+        place-items: center;
+        font: 500 18px DMSans;
+    }
+    .side-contact{
+        font: 550 70px DMSans;
+        animation: transitionIn 3.0s;
+        padding-bottom: 50px;
+        color: var(--letterB);
+    }
+    form{
+        width: 500px;
+        max-width: 800px;
+        animation: transitionIn 3.0s;
+    }
+    input, textarea{
+        width: 500px;
+        height: 40px;
+        font: inherit;
+        padding: 20px;
+        font-weight: 600;
+    }
+    form > button{
+        width: 500px;
+        height: 65px;
+        font: inherit;
+        padding: 10px;
+        font-weight: 500;
+    }
+    textarea{
+        min-height: 100px;
+        resize: none;
+    }
+
+    html, body{
+        overflow: visible;
+    }
+
+
+
+}
+
+@media (max-width: 425px) {
+    
+    .copy{
+        margin-left: 30px;   
+    }
+    .nav-linksII{
+        margin-right: 30px;
+    }
+    .behance-linkII, .insta-linkII, .copy{
+        font: 400 15px DMSans;
+    }
+    .behance-linkII, .insta-linkII{
+        margin-left: 15px;
+    }
+    .main-title{
+        font: 650 27px DMSans;
+    margin-left: 30px;
+    }
+    .nav-links{
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        /*border: 1px solid white;*/
+        align-items: center;
+        margin-right: 30px;
+        background: hsla(0, 0%, 100%, 0.05);
+        border: 2px solid rgba(255, 245, 245, 0.116);
+        backdrop-filter: blur(0.5rem);
+        position: fixed;
+        inset: 0 0 0 55%;
+        margin: 0;
+        z-index: 1000;
+        transform: translateX(100%);
+        transition: transform 350ms ease-out;
+    }
+    .nav-links[data-visible="true"]{
+        transform: translateX(0%);
+    }
+    .burguer[aria-expanded="true"]{
+        position: fixed;
+        background-image:url(Font/close-outline.svg);
+    }
+    .portfolio, .insta-link, .behance-link{
+        margin-bottom: 30px;
+        margin-left: 0;
+    }
+    .portfolio{
+        margin-top: 122px;
+    }
+    .main-title {
+        display: flex;
+        align-items: flex-start;
+        margin-top: 27px;
+        
+
+    }
+    .burguer{
+        background-image: url(Font/menu-outline.svg);
+        background-color: transparent;
+        display: block;
+        color: black;
+        position: absolute;
+        z-index: 9999;
+        right: 35px;
+        margin-right: 0;
+        top: 38px;
+        width: 28px;
+        height: 30px;
+        background-repeat: no-repeat;
+    }
+    main{
+        min-height: 500px;
+        grid-template-columns: 393px;
+        grid-template-rows: 400px 512px;
+        padding: 57px 16px 57px 16px;
+        display: grid;
+        place-items: center;
+        font: 500 18px DMSans;
+    }
+    .side-contact{
+        font: 550 47px DMSans;
+        animation: transitionIn 3.0s;
+        padding-bottom: 50px;
+        padding-left: 30px;
+        color: var(--letterB);
+    }
+    form{
+        width: 270px;
+        max-width: 800px;
+        animation: transitionIn 3.0s;
+    }
+    input, textarea{
+        width: 270px;
+        height: 40px;
+        font: inherit;
+        padding: 20px;
+        font-weight: 600;
+    }
+    form > button{
+        width: 270px;
+        height: 65px;
+        font: inherit;
+        padding: 10px;
+        font-weight: 500;
+    }
+    textarea{
+        min-height: 100px;
+        resize: none;
+    }
+
+    html, body{
+        overflow: visible;
+    }
+    
+}
+@media (max-width: 360px) {
+    
+    .copy{
+        margin-left: 15px;   
+    }
+    .nav-linksII{
+        margin-right: 15px;
+    }
+    .behance-linkII, .insta-linkII, .copy{
+        font: 400 15px DMSans;
+    }
+    .behance-linkII, .insta-linkII{
+        margin-left: 15px;
+    }
+    .main-title{
+        font: 650 20px DMSans;
+    margin-left: 15px;
+    }
+    .nav-links{
+        inset: 0 0 0 55%;
+    }    
+    .portfolio, .insta-link, .behance-link{
+        margin-bottom: 30px;
+        margin-left: 0;
+    }
+    .portfolio{
+        margin-top: 122px;
+    }
+    .main-title {
+        display: flex;
+        align-items: flex-start;
+        margin-top: 27px;
+        
+
+    }
+    .burguer{
+        background-image: url(Font/menu-outline.svg);
+        background-color: transparent;
+        display: block;
+        color: black;
+        position: absolute;
+        z-index: 9999;
+        right: 9px;
+        margin-right: 0;
+        top: 30px;
+        width: 28px;
+        height: 30px;
+        background-repeat: no-repeat;
+    }
+    main{
+        min-height: 500px;
+        grid-template-columns:328px;
+        grid-template-rows: 400px 512px;
+        padding: 30px 16px 30px 16px;
+        display: grid;
+        place-items: center;
+        font: 500 18px DMSans;
+    }
+    .side-contact{
+        font: 550 47px DMSans;
+        animation: transitionIn 3.0s;
+        padding-bottom: 50px;
+        padding-left: 30px;
+        color: var(--letterB);
+    }
+    form{
+        width: 270px;
+        max-width: 800px;
+        animation: transitionIn 3.0s;
+    }
+    input, textarea{
+        width: 270px;
+        height: 40px;
+        font: inherit;
+        padding: 20px;
+        font-weight: 600;
+    }
+    form > button{
+        width: 270px;
+        height: 65px;
+        font: inherit;
+        padding: 10px;
+        font-weight: 500;
+    }
+    textarea{
+        min-height: 100px;
+        resize: none;
+    }
+
+    html, body{
+        overflow: visible;
+    }
+
+}

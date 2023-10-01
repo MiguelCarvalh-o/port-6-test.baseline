@@ -1,0 +1,191 @@
+@charset "UTF-8";
+
+@media(prefers-reduce-motion) {
+    .hidden{
+        transition: none;
+    }
+}
+
+@font-face {
+    font-family: DMSans;
+    src: url(Font/DM_Sans/DMSans-VariableFont_opsz\,wght.ttf);
+    /* font-weight: 100 900; */
+}
+@font-face {
+    font-family: BodoniModa;
+    src: url(Font/Bodoni_Moda/BodoniModa-VariableFont_opsz\,wght.ttf);
+    /* font-weight: 100 900; */
+}
+:root{
+    --backP: #1e1e1e;
+    --backB: #f1f1f1;
+
+    --letterP: #0e0e0e;
+    --letterB: #f1f1f1;
+
+    --fadeP: #2f2f2f;
+    --fadeB: rgb(193, 193, 193);
+
+    --aster: #f54433;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    width: 100%;
+    background-color: var(--backP);
+}
+
+.copy{
+    display: flex;
+    align-items: center;
+    color: var(--letterB);
+    font: 400 23px DMSans;
+    margin-left: 90px;
+    cursor: default;
+}
+
+.nav-linksII{
+    display: flex;
+    list-style: none;
+    /*border: 1px solid white;*/
+    align-items: center;
+    margin-right: 90px;
+}
+
+.nav-linksII, li{
+    text-decoration: none;
+}
+
+.insta-linkII{
+    color: var(--letterB);
+    display: flex;
+    font: 600 20px DMSans;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 32px;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+
+.insta-linkII:hover{
+    transform: translateY(-6px);
+    color: rgba(192, 192, 192, 0.717);
+
+}
+
+.behance-linkII{
+    color: var(--letterB);
+    display: flex;
+    font: 600 20px DMSans;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 32px;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+
+.behance-linkII:hover{
+    transform: translateY(-6px);
+    color: var(--fadeB);
+}
+.scroll{
+    display: flex;
+    align-items: center;
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+    color: var(--letterB);
+    margin-left: 32px;
+}
+
+.scroll:hover{
+    transform: translateY(-6px);
+    color: var(--fadeB);
+}
+
+.show{
+    opacity: 1;
+    transform: translateX(0);
+}
+
+@media (max-width: 1440px) {
+    .scroll{
+        height: 55px;
+        width: 22px;
+        bottom: 220px;
+    }
+    
+}
+
+@media (max-width: 1024px) {
+    .scroll{
+        bottom: 225px;
+        height: 55px;
+        width: 22px;
+    }
+    .copy{
+        margin-left: 65px;   
+    }
+    .nav-linksII{
+        margin-right: 65px;
+    }
+}
+
+@media (max-width: 768px) {
+    .scroll{
+        bottom: 230px;
+        height: 55px;
+        width: 22px;
+    }
+    .copy{
+        margin-left: 65px;   
+    }
+    .nav-linksII{
+        margin-right: 65px;
+    }
+}
+
+@media (max-width: 425px) {
+    .scroll{
+        bottom: 240px;
+        height: 45px;
+        width: 20px;
+    }
+    .copy{
+        margin-left: 30px;   
+    }
+    .nav-linksII{
+        margin-right: 30px;
+    }
+    .behance-linkII, .insta-linkII, .copy{
+        font: 400 15px DMSans;
+    }
+    .behance-linkII, .insta-linkII{
+        margin-left: 15px;
+    }
+}
+
+@media (max-width: 360px) {
+    .scroll{
+        bottom: 210px;
+        height: 45px;
+        width: 20px;
+    }
+    .copy{
+        margin-left: 15px;   
+    }
+    .nav-linksII{
+        margin-right: 15px;
+    }
+    .behance-linkII, .insta-linkII, .copy{
+        font: 400 15px DMSans;
+    }
+    .behance-linkII, .insta-linkII{
+        margin-left: 15px;
+    }
+}
